@@ -9,7 +9,8 @@ const HomeScreen = ({ navigation }) => (
 
       <View style={styles.header}>
         <Text style={styles.headerContent}>
-            <BreeSerif>Welcome to My App! Select an option to continue.</BreeSerif>
+            <BreeSerif>Welcome to My App! Scroll thorugh the pages to get an idea 
+            </BreeSerif>
          </Text>
       </View>
 
